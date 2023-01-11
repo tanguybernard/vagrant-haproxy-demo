@@ -23,6 +23,7 @@ Une fois sur deux sur backA ou backB
 ## haproxy2.sh
 
 redirige 192.168.50.30/appA sur le server1 est enleve appA
+
 redirige 192.168.50.30/appB sur le server2 est enleve appB
 
 ## Haproxy conf
